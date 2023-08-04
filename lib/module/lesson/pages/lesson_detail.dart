@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../inicial/home.dart'; // Importe o arquivo main.dart para acessar a classe Lesson.
+import '../../inicial/home.dart'; // Importe o arquivo main.dart para acessar a classe Lesson.
 
 class LessonDetailScreen extends StatelessWidget {
   final Lesson lesson;
